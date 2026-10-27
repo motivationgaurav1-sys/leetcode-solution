@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

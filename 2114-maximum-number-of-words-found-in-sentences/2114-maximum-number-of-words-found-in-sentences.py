@@ -6,7 +6,7 @@ class Solution(object):
         """
         l2=[]
         for a in sentences:
-            l1=list(map(str,a.split()))
+            l1=a.split()
             s=len(l1)
             l2.append(s)
         return max(l2)    

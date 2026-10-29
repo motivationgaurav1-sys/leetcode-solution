@@ -16,12 +16,25 @@ class Solution(object):
             if b%2==0:
                 c+=1 
         return c"""  
-        c=0
+
+
+        """c=0
         for a in nums:
             digits=len(str(a))
             if digits%2==0:
                 c+=1
-        return c
+        return c"""
+
+
+        count=0
+        for  num in nums:
+            if num<100 and num>=10:
+                count+=1
+            elif num<10000 and num>=1000:
+                count+=1
+            elif num ==100000:
+                count+=1
+        return count                
             
 
 

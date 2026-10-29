@@ -8,5 +8,6 @@ class Solution(object):
         for a in nums:
             l2.append(a**2)
         return sorted(l2) """  
-        return sorted(x**2 for x in nums) 
+        #return sorted(x**2 for x in nums) 
+        return sorted([x*x for x in nums])
         

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation

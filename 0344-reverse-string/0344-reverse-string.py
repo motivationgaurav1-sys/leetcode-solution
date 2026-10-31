@@ -1,6 +1,6 @@
 class Solution(object):
     def reverseString(self, s):
-        s.reverse()
+        
         """
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
@@ -11,7 +11,7 @@ class Solution(object):
             s[left],s[right]=s[right],s[left]
             left+=1
             right-=1"""  
-        return [x for x in s[::-1]]
-        #return s.reverse()
+        s.reverse()
+        
           
 

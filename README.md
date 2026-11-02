@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -104,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue

@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: bool
         """
         freq={}
-        fre={}
         for a in magazine:
             freq[a]=freq.get(a,0)+1
         for i in ransomNote:

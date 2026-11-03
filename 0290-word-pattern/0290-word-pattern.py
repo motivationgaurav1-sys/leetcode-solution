@@ -1,24 +1,16 @@
 class Solution(object):
     def wordPattern(self, pattern, s):
-        """
-        :type pattern: str
-        :type s: str
-        :rtype: bool
-        """
         words=s.split()
         if len(pattern)!=len(words):
+            return False
+        forward, backward={},{}
+        for char, word in zip(pattern,words):
+            if char in forward and forward[char]!=word:
                 return False
-        char_to_word={}
-        word_to_char={}
-        for a,b in zip(pattern,words):
-            if a in char_to_word and char_to_word[a]!=b:
+            if word in backward and backward[word]!=char:
                 return False
-            if b in word_to_char and word_to_char[b]!=a:
-                return False
-
-            char_to_word[a]=b
-            word_to_char[b]=a
-        return True        
+            forward[char],backward[word]=word,char
+        return True                    
 
         
 

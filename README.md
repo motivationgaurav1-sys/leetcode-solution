@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0566-reshape-the-matrix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |

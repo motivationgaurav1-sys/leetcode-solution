@@ -6,7 +6,7 @@ class Solution(object):
         :type c: int
         :rtype: List[List[int]]
         """
-        rows=len(mat)
+        """rows=len(mat)
         column=len(mat[0])
         if rows*column!=r*c:
             return mat
@@ -26,6 +26,16 @@ class Solution(object):
                 result.append(new_row)
 
         return result            
+"""
+        rows=len(mat)
+        columns=len(mat[0])
+        if rows*columns!=r*c:
+            return mat
+        values=[]
+        for row in mat:
+            values.extend(row)
+        result=[]
+        for i in range(r):
+            result.append(values[i*c:(i+1)*c])    
 
-
-        
+        return result

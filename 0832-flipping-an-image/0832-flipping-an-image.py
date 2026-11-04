@@ -22,11 +22,17 @@ class Solution(object):
                     new_row.append(0)
             result.append(new_row)            
         return result"""
-        for row in image:
+        """for row in image:
             row.reverse()
             for i in range(len(image)):
                 row[i]^=1
+        return image  """      
+        for  row in image:
+            row.reverse()
+            for i in range(len(image)):
+                row[i]=1-row[i]
         return image        
+                
 
 
 

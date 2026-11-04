@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """   
        
-        l2=[]
+        """l2=[]
         l3=[]
         p=len(mat)-1
         k=0
@@ -21,7 +21,14 @@ class Solution(object):
         if len(mat)%2!=0:
             a=a-mat[n//2][n//2]
         return a    
-
+"""
+        n=len(mat)
+        total=0
+        for i in range(n):
+            total+=mat[i][i]
+            if i!=n-1-i:
+                total+=mat[i][n-1-i]
+        return total        
                
 
 

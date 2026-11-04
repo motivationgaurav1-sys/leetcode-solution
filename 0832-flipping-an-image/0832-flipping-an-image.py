@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         
-        for i in range(len(image)):
+        """for i in range(len(image)):
             a=0
             b=len(image)-1
             while a<b:
@@ -21,5 +21,14 @@ class Solution(object):
                 else:
                     new_row.append(0)
             result.append(new_row)            
-        return result
+        return result"""
+        for row in image:
+            row.reverse()
+            for i in range(len(image)):
+                row[i]^=1
+        return image        
+
+
+
+
         

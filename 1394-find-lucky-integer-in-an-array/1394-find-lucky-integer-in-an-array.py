@@ -4,7 +4,7 @@ class Solution(object):
         :type arr: List[int]
         :rtype: int
         """
-        a=0
+        """a=0
         freq={}
         for i in arr:
             freq[i]=freq.get(i,0)+1
@@ -13,16 +13,16 @@ class Solution(object):
             if k==v:
                 if k>ans:
                     ans=k
-        return ans               
+        return ans"""               
 
-        """l2=[]
+        l2=[]
         for i in arr:
             if arr.count(i)==i:
                 l2.append(i)
         if len(l2)!=0:
             return max(l2)
         else:
-            return -1 """           
+            return -1            
 
 
 

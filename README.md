@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

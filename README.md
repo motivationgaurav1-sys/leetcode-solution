@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

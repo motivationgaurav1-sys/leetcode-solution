@@ -2,7 +2,7 @@ class Solution(object):
     def hammingWeight(self, n):
         reminder=""
         count=0
-        while n!=0:
+        while n>0:
             if n%2==0:
                 reminder+="0"
             else:

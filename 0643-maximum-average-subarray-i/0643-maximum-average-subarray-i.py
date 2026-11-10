@@ -13,13 +13,21 @@ class Solution(object):
             max_sum=max(max_sum,current_sum)
         return max_sum/float(k)   """     
 # in this code time limit exceed
-        window_sum=0
+        """window_sum=0
         for i in range(k):
             window_sum+=nums[i]
         max_sum=window_sum
         for i in range(k,len(nums)):
             window_sum+=nums[i]-nums[i-k]
             max_sum=max(max_sum,window_sum)
-        return max_sum/float(k)
+        return max_sum/float(k)"""
+        current_sum=sum(nums[:k])
+        max_sum=current_sum
+        for i in range(k,len(nums)):
+            current_sum+=nums[i]-nums[i-k]
+            if max_sum<current_sum:
+                max_sum=current_sum
+        return float(max_sum)/k        
+        
 
         

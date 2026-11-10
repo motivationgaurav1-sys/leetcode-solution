@@ -10,5 +10,5 @@ class Solution(object):
         b=int(x)+1
         b=list(str(b))
         return list(map(int,b))
-        
+
           

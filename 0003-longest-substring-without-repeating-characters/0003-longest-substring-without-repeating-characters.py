@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        """s2=""
+        s2=""
         max_len=0
         for a in s:
             if a not in s2:
@@ -18,8 +18,8 @@ class Solution(object):
                 s2=s2+a
             if len(s2)>max_len:
                 max_len=len(s2)    
-        return max_len"""
-        left=0
+        return max_len
+        """left=0
         seen=set()
         max_len=0
         for right in range(len(s)):
@@ -29,7 +29,7 @@ class Solution(object):
             seen.add(s[right])
             current_len=right-left+1
             max_len=max(max_len,current_len)    
-        return max_len
+        return max_len"""
 
 
         

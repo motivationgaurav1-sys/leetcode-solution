@@ -1,16 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
         seen={}
-        for i in range(len(nums)):
-            num=nums[i]
+        for a in range(len(nums)):
+            num=nums[a]
             need=target-num
-
-
             if need in seen:
-                return[seen[need],i]
-            seen[num]=i            
-
-        
+                return [seen[need],a]
+            seen[num]=a    
         
         
         

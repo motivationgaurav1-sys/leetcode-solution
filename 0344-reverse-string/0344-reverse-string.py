@@ -11,8 +11,15 @@ class Solution(object):
             s[left],s[right]=s[right],s[left]
             left+=1
             right-=1"""  
-        s.reverse()
-
+        """s.reverse()"""
+        i=0
+        j=len(s)-1
+        while i<j:
+            s[i],s[j]=s[j],s[i]
+            i+=1
+            j-=1
+        return s    
+            
         
           
 

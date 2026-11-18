@@ -7,7 +7,7 @@ class Solution(object):
         mini=prices[0]
         
         profit=0
-        for i in range(len(prices)):
+        for i in range(1,len(prices)):
             mini=min(prices[i],mini)
             today_profit=prices[i]-mini
             profit=max(today_profit,profit)

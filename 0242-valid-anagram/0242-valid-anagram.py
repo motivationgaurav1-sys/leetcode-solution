@@ -5,7 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s)!=len(t):
+        """if len(s)!=len(t):
                 return False
         freq={}        
         for ch in s:
@@ -16,4 +16,17 @@ class Solution(object):
             freq[ch]-=1  
         return all(value==0 for value in freq.values())      
 
+"""  
 
+
+
+
+
+
+
+        if len(s)!=len(t):
+            return False
+        if sorted(s)!=sorted(t):
+            return False
+        else:
+            return True        

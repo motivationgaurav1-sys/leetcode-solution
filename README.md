@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |

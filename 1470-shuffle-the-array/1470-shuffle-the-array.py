@@ -8,8 +8,8 @@ class Solution(object):
         ans=[]
         for i in range(n):
             ans.append(nums[i])
-            ans.append(nums[n])
-            n+=1
+            ans.append(nums[n+i])
+
         return ans    
             
 

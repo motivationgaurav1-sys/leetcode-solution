@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |

@@ -6,7 +6,8 @@ class Solution(object):
         """
        
 
-        for i in range(len(nums)+1):
-            if i not in nums:
-                return i
+        n=len(nums)
+        actual_sum=n*(n+1)//2
+        missing_num=actual_sum-sum(nums)
+        return missing_num
         

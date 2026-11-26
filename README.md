@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0383-ransom-note) |
@@ -190,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/motivationgaurav1-sys/leetcode-solution/tree/master/0704-binary-search) |
 ## Dynamic Programming
